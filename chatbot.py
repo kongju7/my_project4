@@ -12,7 +12,7 @@ def cached_model():
 
 @st.cache(allow_output_mutation=True)
 def get_dataset():
-    df = pd.read_csv('/Users/ju/project4/office_chatbot/office_conversation_final.csv')
+    df = pd.read_csv('./office_conversation_final.csv')
     df['embedding'] = df['embedding'].apply(json.loads)
     return df
 
