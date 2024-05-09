@@ -1,9 +1,4 @@
-
-# DS/AI 부트캠프 - 개인 프로젝트 개요 
-(최신순)
-
-
-## [네 번째 프로젝트]: 사무실 일상 챗봇 <사무실 너머머> 구현  
+## [4th 프로젝트]: 사무실 일상 챗봇 <사무실 너머머> 구현  
 - 작성: 2022년 12월 2일   
 - 코드 파일: [ai_15_공주_s4_code.ipynb](https://github.com/kongju7/my_project4/blob/master/ai_15_%EA%B3%B5%EC%A3%BC_s4_code.ipynb)
 - Streamlit 챗봇 실행 파일: [chatbot.py](https://github.com/kongju7/my_project4/blob/master/chatbot.py)
